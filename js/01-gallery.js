@@ -39,4 +39,4 @@ function onClickOpenModal(event) {
     }
   }
   window.addEventListener("keydown", onEscCloseModal);
-}
+} 
